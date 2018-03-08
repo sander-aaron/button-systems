@@ -15,3 +15,12 @@ html {
   background-color: limegreen;
   border-color: limegreen;
 }
+
+.btn:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
+}
